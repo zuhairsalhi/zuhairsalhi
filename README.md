@@ -1,5 +1,5 @@
 # Zuhair Salhi
-**Computer Science Graduate | Full-Stack & Mobile Developer**
+**Computer Science Graduate | Full-Stack Developer | Flutter • FastAPI • Web & Mobile**
 
 📍 Amman, Jordan  
 📧 salhizuhair66@gmail.com  
