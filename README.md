@@ -4,7 +4,7 @@
 📍 Amman, Jordan  
 📧 salhizuhair66@gmail.com  
 📱 +962787966161  
-🔗 [LinkedIn](https://www.linkedin.com/in/zuhair-salhi-a14266251/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/zuhair-salhi/)  
 
 ---
 
