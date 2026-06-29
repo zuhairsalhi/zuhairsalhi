@@ -1,5 +1,5 @@
 # Zuhair Salhi
-**Computer Science | Full-Stack Developer | Web & Mobile**
+**Computer Science | web, Mobile & Backend Development**
 
 📍 Amman, Jordan  
 📧 salhizuhair66@gmail.com  
