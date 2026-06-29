@@ -10,9 +10,11 @@
 
 ## About Me
 
-Computer Science graduate with hands-on experience in full-stack development, mobile applications, and backend systems. Built and deployed multiple production-ready projects across web and mobile platforms. Strong foundation in system design, database architecture, and RESTful API development. Certified in Azure Data Fundamentals and AWS Cloud Foundations.
+Computer Science graduate with hands-on experience in **full-stack web development** and **cross-platform mobile development**. Built and deployed production-ready projects across both domains — from responsive web platforms to Flutter-based mobile applications.
 
-Currently exploring opportunities in software engineering where I can contribute to building scalable, high-impact digital products.
+Skilled in building complete digital solutions: modern frontend interfaces (HTML, CSS, JavaScript, Flutter), robust backend services (FastAPI, REST APIs), and database design (SQLite, SQL). Certified in Azure Data Fundamentals and AWS Cloud Foundations.
+
+Passionate about creating scalable, user-centered applications. Currently seeking software engineering opportunities where I can leverage my full-stack and mobile development skills to build high-impact products.
 
 ---
 
